@@ -5,7 +5,7 @@ import { Button } from "../ui/button";
 
 export default function Heros() {
   return (
-    <div className="px-8 bg-[#404eed] ">
+    <div className="px-8 bg-[#404eed] pt-[100px]">
       <div className="flex flex-col items-center gap-4">
         <h1 className="font-[900] text-4xl uppercase">Imagine a place...</h1>
         <p>
